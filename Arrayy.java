@@ -29,5 +29,7 @@ public class Arrayy {
 	public static void main(String[] args) {
 		Arrayy aa = new Arrayy();
 		aa.compute();
+	}
+}
 	
 
